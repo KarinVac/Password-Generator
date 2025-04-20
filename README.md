@@ -16,3 +16,4 @@ A simple Windows Forms application for generating random passwords of a specifie
 
 * C#
 * Windows Forms (.NET Framework)
+![PWGen](https://github.com/user-attachments/assets/99cc8e60-ddce-421b-95dd-1faee14ca38f)
